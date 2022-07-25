@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>MVC INDEX</title>
 </head>
 <body>
-
+<h1>MVC INDEX</h1>
 </body>
 </html>
